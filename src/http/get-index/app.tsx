@@ -32,6 +32,6 @@ export class App extends Component<Props, State> {
 
   render() {
     //@ts-ignore
-    return <p>The current time is {this.state.time.toLocaleTimeString()}</p>;
+    return <p> Farahty ,The current time is {this.state.time.toLocaleTimeString()}</p>;
   }
 }
